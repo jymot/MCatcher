@@ -3,7 +3,8 @@ test for me.
 
 ## Gradle
 ```gradle
-compile 'im.wangchao:mcatcher:0.1.0'
+debugCompile 'im.wangchao:mcatcher:0.1.0'
+releaseCompile 'im.wangchao:mcatcher-release:0.1.0'
 ```
 ### TODO
 - optmize

@@ -1,1 +1,1 @@
-include ':app', ':catcher', ':catcher-debug'
+include ':app', ':catcher', ':catcher-release'
